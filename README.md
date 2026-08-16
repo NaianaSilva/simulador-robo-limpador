@@ -1,2 +1,2 @@
 # simulador-robo-limpador
-Simulação em python de um robô limpador
+Simulação de um robô limpador
